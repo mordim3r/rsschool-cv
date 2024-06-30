@@ -15,7 +15,7 @@ My first goal is to become Web developer. I am still at the very beginning of th
 
 # Experience:
 * 2017-2019 System administrator State Healthcare institution "Vitebsk City Central Clinical Hospital"
-* 2019-2021 System administrator State Healthcare institution "Vitebsk City Central Polyclinic"
+* 2019-2024 System administrator State Healthcare institution "Vitebsk City Central Polyclinic"
 
 # Education:
 * 2012-2015 Vitebsk State Polytechnic College "Information technology software"
