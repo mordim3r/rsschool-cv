@@ -1,7 +1,7 @@
 # Hello, my name is Valentin Bazyleu.
 
 # Contacts:
-* Tel: 
+* Tel: +375336794393
 * Email: valent1n.bazylev@gmail.com
 
 # Summary:
