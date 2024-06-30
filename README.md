@@ -1,2 +1,1 @@
-# rsschool-cv
-1
+https://mordim3r.github.io/rsschool-cv/cv
